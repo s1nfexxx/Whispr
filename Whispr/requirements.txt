@@ -1,4 +1,0 @@
-# Standartinės Python bibliotekos naudojamos šiame projekte:
-# tkinter, random, string, os, subprocess, tempfile, shutil, sys, ctypes
-
-python>=3.7
